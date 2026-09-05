@@ -41,7 +41,7 @@ body {
   padding: 14px 24px;
 }
 .nav-logo { display: flex; align-items: center; text-decoration: none; }
-.nav-logo-img { height: 22px; width: auto; display: block; }
+.nav-logo-img { height: 28px; width: auto; display: block; }
 .nav nav { display: flex; gap: 28px; align-items: center; }
 .nav nav a {
   color: rgba(255,255,255,.8);
