@@ -33,7 +33,6 @@
   <section class="hero">
     <div class="container hero-inner">
       <div class="hero-text">
-        <span class="eyebrow">Available now</span>
         <h1>Every document, <span class="accent">organized A to Z.</span></h1>
         <p>Point your camera at any paper and DocAZ scans, crops, and files it for you. Everything stays encrypted on your device — and you can find it again in seconds, even offline.</p>
         <div class="hero-cta">
@@ -43,20 +42,20 @@
         <p class="hero-note">Available on Android now. iOS to follow.</p>
       </div>
       <div class="hero-image">
-        <div class="phone-mockup">
-          <div class="phone-screen">
-            <div class="ps-header">
-              <span class="word"><span class="doc">Doc</span><span class="az">AZ</span></span>
-            </div>
-            <div class="ps-body">
-              <div class="ps-card"><div class="dot" style="background:#FFE3C4"></div><div class="bar"></div></div>
-              <div class="ps-card"><div class="dot" style="background:#D6E4FF"></div><div class="bar"></div></div>
-              <div class="ps-card"><div class="dot" style="background:#DCFCE7"></div><div class="bar"></div></div>
-              <div class="ps-card"><div class="dot" style="background:#F3E8FF"></div><div class="bar"></div></div>
-              <div class="ps-fab">+</div>
+        <div class="reel">
+          <button class="reel-scrub prev" id="reelPrev" aria-label="Previous screen" type="button">‹</button>
+          <div class="phone-mockup">
+            <div class="phone-screen" id="reelScreen">
+              <img class="on" data-i="0" src="assets/img/screens/home.png" alt="DocAZ Home screen">
+              <img data-i="1" src="assets/img/screens/scan.jpg" alt="DocAZ scanning a document">
+              <img data-i="2" src="assets/img/screens/save.png" alt="DocAZ save document screen">
+              <img data-i="3" src="assets/img/screens/folders.png" alt="DocAZ folders screen">
+              <img data-i="4" src="assets/img/screens/reminders.png" alt="DocAZ reminders screen">
             </div>
           </div>
+          <button class="reel-scrub next" id="reelNext" aria-label="Next screen" type="button">›</button>
         </div>
+        <div class="reel-dots" id="reelDots"></div>
       </div>
     </div>
   </section>
@@ -274,5 +273,6 @@
     </div>
   </footer>
 
+  <script src="assets/js/hero-reel.js"></script>
 </body>
 </html>
