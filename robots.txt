@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://docaz.app/sitemap.xml
