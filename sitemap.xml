@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://docaz.app/</loc>
+    <loc>https://www.docaz.app/</loc>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://docaz.app/blog/</loc>
+    <loc>https://www.docaz.app/blog/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://docaz.app/blog/how-to-scan-documents-with-your-phone.html</loc>
+    <loc>https://www.docaz.app/blog/how-to-scan-documents-with-your-phone.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://docaz.app/blog/organize-pdf-files-on-android.html</loc>
+    <loc>https://www.docaz.app/blog/organize-pdf-files-on-android.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://docaz.app/blog/document-scanner-app-checklist.html</loc>
+    <loc>https://www.docaz.app/blog/document-scanner-app-checklist.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://docaz.app/privacy.html</loc>
+    <loc>https://www.docaz.app/privacy.html</loc>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://docaz.app/terms.html</loc>
+    <loc>https://www.docaz.app/terms.html</loc>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>

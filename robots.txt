@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://docaz.app/sitemap.xml
+Sitemap: https://www.docaz.app/sitemap.xml
